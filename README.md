@@ -1,6 +1,6 @@
 # E-Commerce-Customer-Segmentation
 
-Customer Segmentation using RFM Clustering Method on Brazilian E-Commerce Public Dataset by Olist
+## Customer Segmentation using RFM Clustering Method on Brazilian E-Commerce Public Dataset by Olist
 Data Source : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 Data Creator: Olist
