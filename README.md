@@ -7,9 +7,9 @@ Data Creator: Olist
 
 Team Members:
 
-Antonius Lemmy Wahyudi
-Nicholas Jefferson Tansri
-Sinabutar Yohanes Adolf Gusmories
+- Antonius Lemmy Wahyudi
+- Nicholas Jefferson Tansri
+- Sinabutar Yohanes Adolf Gusmories
 
 Welcome! In this project, we will do customer segmentation on a Brazilian e-commerce public dataset of orders made at Olist Store. The dataset has information of around 100.000 orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers. We also released a geolocation dataset that relates Brazilian zip codes to lat/long coordinates.
 
